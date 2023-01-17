@@ -1,11 +1,13 @@
 # SOEN342
 
-Project Description
+## Project Description
 Your Project description goes here
 
-features
+## features
 Features of the platform
 
-Team members
-Ahmed Rebei @ahmedrebei
-person @person
+## Team members
+- Devin Kuriya @devinKuriya
+- Rahat Bhatt @bhattirahat
+- Mitchel Scott-Bond @mitchelscottbond
+- 
