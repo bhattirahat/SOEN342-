@@ -14,4 +14,4 @@ Features of the platform
 - Devin Kuriya @devinKuriya
 - Rahat Bhatt @bhattirahat
 - Mitchel Scott-Bond @mitchelscottbond
-- 
+- Sharjanan Staniculas @sharjanan
