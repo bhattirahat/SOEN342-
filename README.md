@@ -15,3 +15,4 @@ Features of the platform
 - Rahat Bhatt @bhattirahat
 - Mitchel Scott-Bond @mitchelscottbond
 - Sharjanan Staniculas @sharjanan
+- Abdullah Al-Sayyed @Studyii
