@@ -7,7 +7,7 @@ Your Project description goes here
 ## Objective:
 
 
-## features
+## Features
 Features of the platform:
 * 1     - No Markup/Less Fees-->Use adds and higher restaurant fees 
 * 2     - Bottom Navigation Bar
