@@ -4,8 +4,8 @@
 Your Project description goes here
 
 
-## Objective:
-
+## Objective: 
+Create a food delivery application. 
 
 ## Features
 Features of the platform:
