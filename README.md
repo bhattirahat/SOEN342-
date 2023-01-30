@@ -1,11 +1,11 @@
 # SOEN342
 
 ## Project Description
-Your Project description goes here
+Food delivery application
 
 
 ## Objective: 
-Create a food delivery application. 
+Create a food delivery application that incorporates many features from the most popular food apps and meets the requirements that we have specified in our documentation.
 
 ## Features
 Features of the platform:
